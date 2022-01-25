@@ -1,0 +1,16 @@
+
+knit_pics/
+
+libs/header-attrs/header-attrs.js
+
+libs/remark-css/default.css
+
+renv/settings.dcf
+
+research_SOP.pdf
+
+research_SOP.Rmd
+
+scrapes.Rmd
+
+*.Rproj
